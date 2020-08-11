@@ -20,3 +20,15 @@ class _SearchState extends State<Search> {
     );
   }
 }
+class Search extends StatefulWidget {
+  @override
+  _SearchState createState() => _SearchState();
+}
+class Search extends StatefulWidget {
+  @override
+  _SearchState createState() => _SearchState();
+}
+class Search extends StatefulWidget {
+  @override
+  _SearchState createState() => _SearchState();
+}
